@@ -1,5 +1,7 @@
 # Franka-Panda-Arm-block-stacking
 
+[![Hardware testung: Franka Panda Arm block stacking](https://user-images.githubusercontent.com/68454938/224109076-85f274ee-1e83-42a7-8d01-b9b02784040d.png)](https://vimeo.com/784593254)   
+
 The objective of this project was to design a robust solution to enable the Franka Emika Panda arm to perform the task of Pick and Place in a fast and safe manner.
 
 Main areas of focus: Perception, IK solver algorithm, Orientation Filtering Tracking, Trajectory planning, Gripping, Stacking methods – static and dynamic blocks.
